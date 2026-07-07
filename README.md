@@ -2,6 +2,8 @@
 
 ¿Tienes un negocio gastronómico y aún manejas pedidos en papel, precios en pizarra y clientes en una libreta? Este sistema web unifica todo en un solo lugar: tu carta digital, tus pedidos, tus clientes y el control de tu negocio, accesible desde cualquier dispositivo.
 
+<video src="https://github.com/user-attachments/assets/c61c9a5f-91aa-4052-9ed8-01fb6fc707e4" controls="controls" style="max-width: 100%;"></video>
+
 ## ¿Qué incluye?
 
 ### 🧑‍🍳 Para tus clientes
